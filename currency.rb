@@ -1,7 +1,7 @@
 # Write your cod here
 def usd_to_eur(usd)
   eur = usd * 0.86
-  eur = euro.round(2)
+  eur = eur.round(2)
   puts eur
 end
 usd_to_eur(1.0)
