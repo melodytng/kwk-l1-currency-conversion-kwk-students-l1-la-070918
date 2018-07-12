@@ -35,4 +35,4 @@ def gbp_to_usd(gbp)
   usd = usd.round(2)
   puts usd
 end
-gdp_to_usd(90)
+gbp_to_usd(90)
