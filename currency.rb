@@ -35,16 +35,4 @@ def gbp_to_usd(gbp)
   usd = usd.round(2)
   puts usd
 end
-
-# def usd_to_eur(usd)
-#   eur = usd * 0.86
-#   eur = euro.round(2)
-#   puts eur
-# end
-# usd_to_eur(1.0)
-
-# def eur_to_usd(eur)
-#   usd = eur * 1.17
-#   usd = usd.round(2)
-#   puts usd
-# end
+gdp_to_usd(90)
